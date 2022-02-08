@@ -112,7 +112,7 @@
             $homebridge = "FAIL";
         }
 
-        $ip = "eco-ha.duckdns.org";	// my localhost ip
+        $ip = "homeassistant";	// my localhost ip
         $port = 8123;			// 26354 my opened port in modem
         $timeout = 1;			// connection timeout in seconds 
 
