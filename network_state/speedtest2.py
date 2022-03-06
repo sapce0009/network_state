@@ -10,9 +10,9 @@ from email.mime.text import MIMEText
 import mysql.connector
 
 limit_speed = 150
-google_id = 'corsa1rkr@gmail.com'
-google_password = 'zwqnnzismokxcphp'
-mail_receiver_id = 'wez____@naver.com'
+google_id = 'googleid'
+google_password = 'password'
+mail_receiver_id = 'receiver_id'
 
 db_host = 'db_host'
 db_port = 'db_port'
